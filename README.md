@@ -17,11 +17,7 @@
 
 Users should be able to:
 
-#### - 
-
-#### - 
-
-#### - 
+#### - See the list of Pokemons in the order of it's index from the API
 
 ### Features
 
