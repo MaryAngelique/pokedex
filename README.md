@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [ GitHub Solution](GitHub )
-- Live Site URL: [ Website](Deployed website)
+- Live Site URL: [Pokedex Website](https://pokedex-cappa.vercel.app/)
 
 ## My process
 
