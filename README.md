@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
+- Solution URL: [Pokedex GitHub Solution](https://github.com/MaryAngelique/pokedex)
 - Live Site URL: [Pokedex Website](https://pokedex-cappa.vercel.app/)
 
 ## My process
